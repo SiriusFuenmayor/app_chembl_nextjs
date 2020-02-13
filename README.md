@@ -71,6 +71,6 @@ the web page will be available on
 
 	http://localhost:3000
 
-** Detailed information on deploying a Next.js app could be found at https://nextjs.org/learn/basics/deploying-a-nextjs-app**
+**Detailed information on deploying a Next.js app could be found at https://nextjs.org/learn/basics/deploying-a-nextjs-app**
 
 
